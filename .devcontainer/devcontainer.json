@@ -1,0 +1,25 @@
+{
+  "name": "Angular Development",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:20",
+  "features": {
+    "ghcr.io/devcontainers/features/node:1": {
+      "version": "20"
+    }
+  },
+  "postCreateCommand": "npm install",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "angular.ng-template", // Extensión para Angular
+        "dbaeumer.vscode-eslint" // Extensión para linting
+      ]
+    }
+  },
+  "forwardPorts": [4200],
+  "portsAttributes": {
+    "4200": {
+      "label": "Angular App",
+      "onAutoForward": "notify"
+    }
+  }
+}
