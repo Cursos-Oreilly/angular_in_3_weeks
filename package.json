@@ -1,6 +1,6 @@
 {
-  "name": "angular_in_3_weeks",
-  "version": "0.0.1",
+  "name": "angular_in_3_weeks_fork",
+  "version": "0.1.0",
   "description": "Supporting Rap's Angular in Three Weeks course for O'Reilly",
   "main": "index.js",
   "scripts": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rapPayne/angular_in_3_weeks.git"
+    "url": "git+https://github.com/Cursos-Oreilly/angular_in_3_weeks.git"
   },
   "author": "@RapPayne",
   "license": "SEE LICENSE IN README.md",
   "bugs": {
-    "url": "https://github.com/rapPayne/angular_in_3_weeks/issues"
+    "url": "https://github.com/Cursos-Oreilly/angular_in_3_weeks/issues"
   },
-  "homepage": "https://github.com/rapPayne/angular_in_3_weeks#readme"
+  "homepage": "https://github.com/Cursos-Oreilly/angular_in_3_weeks#readme"
 }
