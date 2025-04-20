@@ -1,4 +1,0 @@
-[submodule "server"]
-	path = server
-	url = git@github.com:rapPayne/daam-server.git
-  update = merge
